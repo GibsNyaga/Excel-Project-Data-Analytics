@@ -71,23 +71,22 @@ It includes detailed information on:
     <img width="800" alt="data_job_skills (2)" src="https://github.com/user-attachments/assets/473c74d5-65e7-4dd8-9334-1aa139c07110" />  
     <br>
 
-    ## 📊 Analysis
-  ####<img width="793" height="481" alt="Analysis3" src="https://github.com/user-attachments/assets/dc0fcb48-bc8e-455a-a57a-d039500d0028" />
- 💡 Insights
+    ### 📊 Analysis
+ #### 💡 Insights
   - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.  
 
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
 <img width="800" alt="Analysis" src="https://github.com/user-attachments/assets/2da288e2-3651-487d-be68-c40db0a15021" />
 
-### 🤔 So What?  
+#### 🤔 So What?  
 This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.  
 
 ## 2️⃣ What’s the salary for data jobs in different regions?  
 
 ### 🧮 Skills: PivotTables & DAX.
 
-📈Pivot Table.  
+#### 📈Pivot Table.  
 
 🔢 I created a PivotTable using the Data Model I created with Power Pivot.  
 📊 I moved the `job_title_short` to the rows area and `salary_year_avg` into the values area.  
