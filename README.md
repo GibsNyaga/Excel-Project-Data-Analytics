@@ -13,7 +13,7 @@ To understand the data science job market, I asked the following:
 3.  What are the top skills of data professionals?  
 4.  What’s the pay for the top 10 skills?
 
-## Excel Skills Used  
+### Excel Skills Used  
 
 The following Excel skills were utilized for analysis:  
 
@@ -23,7 +23,7 @@ The following Excel skills were utilized for analysis:
 - 🔍 Power Query  
 - 💪 Power Pivot
 
-## Data Jobs Dataset  
+### Data Jobs Dataset  
 
 The dataset used for this project contains real-world data science job information from 2023.  
 
@@ -36,7 +36,7 @@ It includes detailed information on:
 
 ## 1️⃣ Do more skills get you better pay?  
 
-## 🔍 Skill: Power Query (ETL) 
+### 🔍 Skill: Power Query (ETL) 
 
 ### 📥 Extract  
 
@@ -55,8 +55,8 @@ It includes detailed information on:
     - 🛠️ data_job_skills  
   
       <img width="400" alt="data_job_skills" src="https://github.com/user-attachments/assets/4bebe47c-c053-4592-8525-6616dcd6f8b2" />
-  
-  ### 🔗 Load
+
+ ### 🔗 Load
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.  
 
     - 📊 data_jobs_all
@@ -66,12 +66,12 @@ It includes detailed information on:
     <br> 
     
     - 🛠️ data_job_skills
-  
+  <br>
     <br>
     <img width="800" alt="data_job_skills (2)" src="https://github.com/user-attachments/assets/473c74d5-65e7-4dd8-9334-1aa139c07110" />  
     <br>
 
-    ### 📊 Analysis
+### 📊 Analysis
  #### 💡 Insights
   - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.  
 
@@ -165,9 +165,11 @@ To customize the chart, I added a title axis title, removed the lines (skill lik
 
 ## Conclusion  
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies.  
+As a data enthusiast and job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies.  
 
 I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+
+This was a step by step guide by [Luke Barousse](https://github.com/lukebarousse) on the `Excel Data Analytics` [Course](https://www.lukebarousse.com/excel)
  
 
 
